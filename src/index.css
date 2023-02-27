@@ -1,0 +1,3 @@
+.accorfion-button::after{
+  filter: invert(1);
+}
